@@ -5,6 +5,7 @@
         "core": "*"
     },
     "files": [
+        "main.ts"
         "tutorial.md"
     ]
 }
