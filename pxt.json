@@ -1,0 +1,10 @@
+{
+    "name": "my-minecraft-tutorial",
+    "description": "Minecraft Education Tutorial",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "tutorial.md"
+    ]
+}
